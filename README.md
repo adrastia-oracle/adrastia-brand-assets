@@ -1,5 +1,7 @@
 # Adrastia Brand Assets
 
+![Adrastia Logo](logo/dark-background/horizontal.svg)
+
 This repository contains the Adrastia brand assets.
 
 ## Logo
